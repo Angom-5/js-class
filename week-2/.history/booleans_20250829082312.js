@@ -53,16 +53,6 @@ if (x>=1){
     console.log("Good Morning");
 } else if{
     console.log('Good afternoon');
-}else (x<=18){
+}else (x<=1800){
     console.log('Good Night');
 }
-
-/*note:
-0 is false
-all strings are true unless empty
-
-
-
-
-
-

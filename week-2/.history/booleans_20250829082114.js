@@ -49,20 +49,8 @@ console.log(result);
 //using else if. this is used when there are three or more different situations 
 let time = 0001;
 let recentTime = x;
-if (x>=1){
+if (x>=0001){
     console.log("Good Morning");
 } else if{
     console.log('Good afternoon');
-}else (x<=18){
-    console.log('Good Night');
-}
-
-/*note:
-0 is false
-all strings are true unless empty
-
-
-
-
-
-
+}else

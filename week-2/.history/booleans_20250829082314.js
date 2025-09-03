@@ -56,13 +56,3 @@ if (x>=1){
 }else (x<=18){
     console.log('Good Night');
 }
-
-/*note:
-0 is false
-all strings are true unless empty
-
-
-
-
-
-

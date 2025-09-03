@@ -58,8 +58,6 @@ if (x>=1){
 }
 
 /*note:
-0 is false
-all strings are true unless empty
 
 
 
